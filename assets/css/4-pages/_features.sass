@@ -1,8 +1,8 @@
 .features
   background-color: #E8EDFA
-  padding: 50px 0
+  padding: 100px 0 0 0
 
-  .flex-wrap
+  .flex-wrap-features
     display: flex
     flex-wrap: wrap
     justify-content: center
@@ -26,8 +26,40 @@
 
 .full-width
   background:
-    image: url(../img/features/waves-bg.png)
+    image: url(../img/features/waves.png)
     size: cover
     repeat: no-repeat
   width: 100%
-  height: 300px
+  height: 383px
+
+.dashboard
+
+  .flex-wrap-dashboard
+    display: flex
+    flex-wrap: wrap
+    justify-content: space-around
+    width: 100%
+    margin: 0 auto
+
+    .dashboard-item
+      padding: 30px 20px
+
+      h2
+        text-align: left
+        margin: 0
+        padding: 0
+        max-width: 500px
+
+      p
+        max-width: 460px
+
+      .dashboard-image
+        max-width: 600px
+
+        img
+          max-width: 100%
+          min-height: 0
+
+      @media(max-width: 1177px)
+        h2, p
+          text-align: center

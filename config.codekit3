@@ -7,7 +7,7 @@
 		"uuidString": "4F75A736-1662-469C-9AF7-0E14503A88C3"
 		}
 	],
-"creatorBuild": "26148",
+"creatorBuild": "26261",
 "files": {
 	"\/assets\/css\/0-tools\/_normalize.scss": {
 		"aP": 1,
@@ -1206,6 +1206,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/assets\/img\/features\/waves.png": {
+		"ft": 32768,
+		"iS": 109748,
+		"oA": 0,
+		"oAP": "\/assets\/img\/features\/waves.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/assets\/img\/footer\/leaves-footer.png": {
 		"ft": 32768,
 		"iS": 7512,
@@ -1894,6 +1905,10 @@
 		"id-match": {
 			"active": 0,
 			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
+			},
+		"implicit-arrow-linebreak": {
+			"active": 0,
+			"optionString": "'beside'"
 			},
 		"indent": {
 			"active": 0,
