@@ -1088,6 +1088,19 @@
 		"oS": 3,
 		"uL": 1
 		},
+	"\/assets\/css\/4-pages\/_tutorials.sass": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/4-pages\/_tutorials.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
 	"\/assets\/css\/main.css": {
 		"aP": 1,
 		"bl": 0,
@@ -1277,6 +1290,50 @@
 		"iS": 21114,
 		"oA": 0,
 		"oAP": "\/assets\/img\/header\/leaves.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/tutorials\/chart.png": {
+		"ft": 32768,
+		"iS": 27113,
+		"oA": 0,
+		"oAP": "\/assets\/img\/tutorials\/chart.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/tutorials\/health.png": {
+		"ft": 32768,
+		"iS": 46772,
+		"oA": 0,
+		"oAP": "\/assets\/img\/tutorials\/health.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/tutorials\/profiles.png": {
+		"ft": 32768,
+		"iS": 60136,
+		"oA": 0,
+		"oAP": "\/assets\/img\/tutorials\/profiles.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/tutorials\/tutorials-bg.png": {
+		"ft": 32768,
+		"iS": 942664,
+		"oA": 0,
+		"oAP": "\/assets\/img\/tutorials\/tutorials-bg.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
