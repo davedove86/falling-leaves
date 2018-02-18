@@ -60,6 +60,64 @@
           max-width: 100%
           min-height: 0
 
-      @media(max-width: 1177px)
+      @media (max-width: 1177px)
         h2, p
           text-align: center
+
+.featured-features
+  
+  h2
+    padding-bottom: 20px
+
+  .section-kicker
+    text-align: center
+
+  .flex-wrap-featured
+    display: flex
+    flex-wrap: wrap
+    justify-content: center
+    align-items: center
+    width: 100%
+    margin: 0 auto
+
+    .featured-items, .featured-items-left, .featured-items-right
+      width: 350px
+      padding: 20px 30px
+
+    .featured-items-left
+      text-align: right
+    
+  @media (max-width: 1050px)
+    .flex-wrap-featured
+      display: block
+      text-align: center
+      margin: 0 auto
+
+      .featured-items, .featured-items-left, .featured-items-right
+        text-align: center
+        margin: 0 auto
+
+.apple-watch
+  background: 
+    image: url(../img/features/white-waves.png)
+    size: cover
+    repeat: no-repeat
+    position: center
+  padding: 100px 20px
+
+  .flex-wrap-watch
+    display: flex
+    flex-wrap: wrap
+    align-items: center
+
+    .watch-item
+      width: 530px
+      text-align: center
+      margin: 0 auto
+
+      img
+        +size(450px)
+
+      .app-store
+        width: 147px
+        height: 44px

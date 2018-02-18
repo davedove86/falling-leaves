@@ -7,7 +7,7 @@
 		"uuidString": "4F75A736-1662-469C-9AF7-0E14503A88C3"
 		}
 	],
-"creatorBuild": "26261",
+"creatorBuild": "26268",
 "files": {
 	"\/assets\/css\/0-tools\/_normalize.scss": {
 		"aP": 1,
@@ -1217,6 +1217,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/assets\/img\/features\/white-waves.png": {
+		"ft": 32768,
+		"iS": 789646,
+		"oA": 0,
+		"oAP": "\/assets\/img\/features\/white-waves.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/assets\/img\/footer\/leaves-footer.png": {
 		"ft": 32768,
 		"iS": 7512,
@@ -1342,6 +1353,7 @@
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoprefixerEnableIEGrid": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
 	"babelConfigFileHandlingType": 0,
