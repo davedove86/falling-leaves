@@ -1062,6 +1062,19 @@
 		"oS": 3,
 		"uL": 1
 		},
+	"\/assets\/css\/3-layouts\/_footer.sass": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/3-layouts\/_footer.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
 	"\/assets\/css\/3-layouts\/_header.sass": {
 		"aP": 1,
 		"bl": 0,
